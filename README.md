@@ -1,0 +1,2 @@
+# MSwiftUINavigatorExample
+ MSwiftUINavigator Library Example
